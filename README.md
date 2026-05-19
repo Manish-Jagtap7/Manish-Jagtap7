@@ -66,21 +66,4 @@ Building AI-powered products, scalable Discord bots, and cloud-based web service
 
 ---
 
-## Current Focus
 
-```yaml
-backend_development:
-  - APIs
-  - scalable systems
-  - cloud deployments
-
-ai_and_automation:
-  - LLM integrations
-  - AI-powered applications
-  - workflow automation
-
-currently_learning:
-  - system design
-  - distributed systems
-  - production-grade AI systems
-```
