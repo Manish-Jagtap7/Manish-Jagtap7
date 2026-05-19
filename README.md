@@ -68,18 +68,19 @@ Building AI-powered products, scalable Discord bots, and cloud-based web service
 
 ## Current Focus
 
-```python
-class Manish:
-    interests = [
-        "Backend Development",
-        "Generative AI",
-        "Cloud Infrastructure",
-        "Automation",
-        "Scalable Systems"
-    ]
+```yaml
+backend_development:
+  - APIs
+  - scalable systems
+  - cloud deployments
 
-    currently_learning = [
-        "Advanced System Design",
-        "Production AI Systems",
-        "Distributed Architectures"
-    ]
+ai_and_automation:
+  - LLM integrations
+  - AI-powered applications
+  - workflow automation
+
+currently_learning:
+  - system design
+  - distributed systems
+  - production-grade AI systems
+```
